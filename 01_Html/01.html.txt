@@ -1,0 +1,6 @@
+Curso HTML:
+
+HTML: Lenguaje de etiquetas de hipertexto.
+
+-Poner objetos en la pagina, estructurar la pagina, poner cajas en la pagina.
+-Primero crear el index.html 
